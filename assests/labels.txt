@@ -1,0 +1,30 @@
+0.1mM glucose
+0.1mM lactate
+0.1mM uric acid
+0.2mM glucose
+0.2mM lactate
+0.2mM uric acid
+0.3mM glucose
+0.3mM lactate
+0.3mM uric acid
+0.4mM glucose
+0.4mM lactate
+0.4mM uric acid
+0.5mM glucose
+0.5mM lactate
+0.5mM uric acid
+0.6mM glucose
+0.6mM lactate
+0.6mM uric acid
+0.7mM glucose
+0.7mM lactate
+0.7mM uric acid
+0.8mM glucose
+0.8mM lactate
+0.8mM uric acid
+0.9mM glucose
+0.9mM lactate
+0.9mM uric acid
+1.0mM glucose
+1.0mM lactate
+1.0mM uric acid
